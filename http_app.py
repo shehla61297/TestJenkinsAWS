@@ -799,6 +799,6 @@ if __name__ == '__main__':
     aiohttp_jinja2.setup(
         application, loader=jinja2.FileSystemLoader(os.path.join(os.getcwd(), "templates"))
     )
-    web.run_app(application, port=9009)
+    # web.run_app(application, port=9009)
 
 
