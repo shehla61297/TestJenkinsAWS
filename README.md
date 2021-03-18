@@ -3,7 +3,7 @@ hellooooo
 aa
 banana
 bread
-apple pie kivi fruit
+apple pie kivi fruit aaa
 ## Python Example Application
 An example application that demonstrate simple SSI use-cases using the Python Verity SDK. 
 
