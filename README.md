@@ -2,6 +2,8 @@ hellooooo
 1234567
 aa
 banana
+bread
+apple pie
 ## Python Example Application
 An example application that demonstrate simple SSI use-cases using the Python Verity SDK. 
 
