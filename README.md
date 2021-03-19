@@ -4,6 +4,7 @@ aa
 banana
 bread
 apple pie kivi fruit aaa
+poti dhaal
 ## Python Example Application
 An example application that demonstrate simple SSI use-cases using the Python Verity SDK. 
 
